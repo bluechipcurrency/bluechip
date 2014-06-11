@@ -1,0 +1,9 @@
+Building BlueChip
+
+See doc/readme-qt.rst for instructions on building BlueChip QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BlueChip.
+
+See doc/build-*.txt for instructions on building BlueChipd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BlueChip.
